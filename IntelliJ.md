@@ -8,4 +8,4 @@
 - Ir para quem utiliza o método/classe: CTRL + CLICK (quando o cursor estiver na definição do método/classe)
 - Gerar construtor, getters/setters, equals/hashCode: ALT + INSERT
 - Ver arquivos alterados sem commit: ALT + 9 -> Local Changes
-- Desfazer alterações sem commit: CLICK botão esquerdo -> Git -> Revert (Selecionar apenas os arquivos que deseja desfazer)
+- Desfazer alterações sem commit: CLICK botão direito -> Git -> Revert (Selecionar apenas os arquivos que deseja desfazer)

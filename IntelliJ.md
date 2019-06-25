@@ -1,6 +1,7 @@
 ## Atalhos
 - Pesquisar pelo nome do arquivo: CTRL + SHIFT + N
 - Pesquisar pelo conteúdo dos arquivos: CTRL + SHIFT + F
+- Pesquisar no arquivo aberto no editor: CTRL + F (Para ir para a próxima ocorrência: F3)
 - Mostrar definições dos parâmetros do método: CTRL + P (quando o cursor estiver na chamada do método)
 - Sugestões para correção do erro: ALT + ENTER (quando o cursor estiver na linha com erro)
 - Gerar todos os sets de um objeto: ALT + ENTER (quando o cursor estiver na definição do objeto) -> Generate all setter (Requer plugin M:\ERP Web REST\generateAllSetter-2.4-g.zip)

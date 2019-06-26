@@ -3,7 +3,7 @@
 - Pesquisar pelo conteúdo dos arquivos: CTRL + SHIFT + F
 - Pesquisar no arquivo aberto no editor: CTRL + F (Para ir para a próxima ocorrência: F3)
 - Mostrar definições dos parâmetros do método: CTRL + P (quando o cursor estiver na chamada do método)
-- Mostrar javadoc da classe, método selecionado: CTRL + Q
+- Mostrar javadoc da classe/método selecionado: CTRL + Q
 - Sugestões para correção do erro: ALT + ENTER (quando o cursor estiver na linha com erro)
 - Gerar todos os sets de um objeto: ALT + ENTER (quando o cursor estiver na definição do objeto) -> Generate all setter (Requer plugin M:\ERP Web REST\generateAllSetter-2.4-g.zip)
 - Navegar para definição do método: CTRL + ![CLICK](img/left-click.png) (quando o cursor estiver na chamada do método)

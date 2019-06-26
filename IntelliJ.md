@@ -15,3 +15,6 @@
 - Desfazer alterações sem commit: ![RCLICK](img/right-click.png) -> Git -> Revert (Selecionar apenas os arquivos que deseja desfazer)
 - Renomear arquivo, método ou classe: SHIFT + F6
 - Criar novo método com o código selecionado (Extract Method): CTRL + ALT + M
+
+## Dicas
+- Desativar verificação ortográfica: File -> Settings | Editor -> Inspections | Spelling -> Desmarcar a opção Typo
